@@ -1,0 +1,19 @@
+{
+  "name": "pc-epsi-aat-tests",
+  "version": "1.0.0",
+  "main": "somme.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.5.2"
+  }
+}
